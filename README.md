@@ -6,7 +6,7 @@
   <body>
     <div style="display: block">
       <p>My name is Gabriel Alves, and i'm studying <b><i>Full-Stack Development.</i></b></p>
-      <p align="left">I'm currently studying <b><i>Jose Portilla's</b></i> Python and Django Full Stack Web Developer Bootcamp on Udemy, and studying on my own too.</p>
+      <p align="left">I'm currently taking classes on <b><i>PROA</b></i> Full-Stack Java Development Course.</p>
       <a href="https://github.com/4lvesgabriel">
       <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=4lvesgabriel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
       </a>
