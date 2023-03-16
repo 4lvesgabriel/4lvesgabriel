@@ -5,7 +5,7 @@
   </head>
   <body>
 <!--  STATS   -->
-    <div style="display: block">
+    <div style="display: flex">
     <div style="display: block">
       <p>My name is Gabriel Alves, and i'm studying <b><i>Full-Stack Development.</i></b></p>
       <p align="left">I'm currently taking classes on <b><i>PROA</b></i> Full-Stack Java Development Course.</p>
