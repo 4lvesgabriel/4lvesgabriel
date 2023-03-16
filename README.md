@@ -4,13 +4,16 @@
   <head>
   </head>
   <body>
+<!--  STATS   -->
     <div style="display: block">
       <p>My name is Gabriel Alves, and i'm studying <b><i>Full-Stack Development.</i></b></p>
       <p align="left">I'm currently taking classes on <b><i>PROA</b></i> Full-Stack Java Development Course.</p>
       <a href="https://github.com/4lvesgabriel">
       <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=4lvesgabriel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
       </a>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvesgabriel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
+<!--  Programming Languages & Frameworks  -->
     <div align="justify" style="display: inline_block">
       <p>💻 Programming Languages for now: ⤵️</p>
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
