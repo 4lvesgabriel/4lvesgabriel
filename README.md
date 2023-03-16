@@ -10,8 +10,8 @@
       <p align="left">I'm currently taking classes on <b><i>PROA</b></i> Full-Stack Java Development Course.</p>
       <a href="https://github.com/4lvesgabriel">
       <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=4lvesgabriel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+      <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lvesgabriel&layout=compact"/>
       </a>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvesgabriel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 <!--  Programming Languages & Frameworks  -->
     <div align="justify" style="display: inline_block">
