@@ -5,8 +5,7 @@
   </head>
   <body>
 <!--  STATS   -->
-    <div style="display: flex">
-    <div style="display: block">
+    <div align="justify" style="display: inline_block">
       <p>My name is Gabriel Alves, and i'm studying <b><i>Full-Stack Development.</i></b></p>
       <p align="left">I'm currently taking classes on <b><i>PROA</b></i> Full-Stack Java Development Course.</p>
       <a href="https://github.com/4lvesgabriel">
@@ -27,6 +26,5 @@
       <img width="80em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </div>
-      </div>
   </body>
 </html>
