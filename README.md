@@ -2,6 +2,11 @@
 ## Welcome!
 <html>
   <head>
+  <style>
+   .mail:hover{
+   opacity: 0.5;
+   }
+  </style>
   </head>
   <body>
 <!--  STATS   -->
@@ -25,7 +30,7 @@
       <img width="110em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img width="89em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
       <p>Contact Information: ⤵️</p>
       <a href="mailto:g.alvesgabriel27@gmail.com">
-      <img width="80em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img class="mail" width="80em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
       <a href="https://www.linkedin.com/in/gabriel-alves-gabriel-7b8b91227/">
       <img width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
