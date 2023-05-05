@@ -27,6 +27,9 @@
       <a href="mailto:g.alvesgabriel27@gmail.com">
       <img width="80em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
+      <a href="https://www.linkedin.com/in/gabriel-alves-gabriel-7b8b91227/">
+      <img width="80em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
     </div>
   </body>
 </html>
