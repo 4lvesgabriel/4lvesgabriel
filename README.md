@@ -2,11 +2,6 @@
 ## Welcome!
 <html>
   <head>
-  <style>
-   .mail:hover{
-   opacity: 0.5;
-   }
-  </style>
   </head>
   <body>
 <!--  STATS   -->
